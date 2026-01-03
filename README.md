@@ -23,7 +23,8 @@ See `cad/` for STEP files of the brackets as well as a `.gcode.3mf` file for the
 
 ## Assembly
 
-1. Cut wooden dowels to length (I picked 215mm, yours could be longer or shorter depending on your keyboards or preferences)
-2. Drill centered holes into both sides of the dowel and install threaded inserts
-3. 3D print brackets
-4. Final assembly, install M4 hardware to fasten the brackets to the 3 dowels
+1. Cut wooden dowels to length (I picked 215mm, yours could be longer or shorter depending on your keyboards or preferences). I did this with a hand saw which lead to cuts which weren't quite perpendicular to the dowel's long axis and thats not ideal, better to use a tablesaw or bandsaw for this.
+2. Drill centered holes into both sides of the dowel and install threaded inserts, the included `drill-guide.step` model can be printed to use as a guide to keep a handheld power drill on-axis. I used a quarter-inch drill bit for my M4 threaded inserts, this worked surprisingly well keeping my drill bit lined up but not deteriorating as I drilled through a bunch of dowels.
+3. Give the dowels a sanding, I did this by hand with 400 grit sandpaper.
+3. 3D print the brackets.
+4. Final assembly, install M4 hardware to fasten the brackets to the 3 dowels, profit.
