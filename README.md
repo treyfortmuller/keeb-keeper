@@ -8,6 +8,10 @@ A desktop display stand for your keyboard you can make with a 3D printer and a t
 
 ![img3](./imgs/img3.png)
 
+![final1](./imgs/final1.jpg)
+
+![final](./imgs/final2.jpg)
+
 ## BOM
 
 | Part | Quantity | Price | Link |
